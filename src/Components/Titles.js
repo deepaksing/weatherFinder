@@ -7,7 +7,7 @@ class Titles extends React.Component {
                 <h1 className="title-container__title">Weather Finder</h1>
                 <p className = "title-container__subtitle">Get current Weather forcast</p>
                 <p className="title-container__subtitles"> Made By :  
-                    <span className="title-container__name"> Deepak Singh</span>
+                    <span className="title-container__name"> Deepak Singh and Ashutosh Singh</span>
                 </p>
             </div>
 
